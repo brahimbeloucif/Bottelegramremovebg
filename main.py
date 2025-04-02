@@ -5,7 +5,7 @@ from io import BytesIO
 from PIL import Image
 import os
 import asyncio
-
+ #-
 TOKEN = os.getenv("BOT_TOKEN")
 user_languages = {}
 user_backgrounds = {}
